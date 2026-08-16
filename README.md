@@ -1,1 +1,1 @@
-# duckdb-contacts
+# DuckDB Contacts
