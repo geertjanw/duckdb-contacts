@@ -19,5 +19,3 @@ Here's an overview.
 - Rill Data (SQL-driven dashboards), Ibis (DataFrame API), Tad (fast tabular data viewer), Honeycomb Maps (browser geospatial analysis on DuckDB-Wasm), and VulcanSQL (data API framework using DuckDB as cache/connector)
 - tailpipe (open-source SIEM for log insights) and preswald (Wasm packager for Python data apps)
 - MotherDuck's org, which maintains a cookbook of example projects built on MotherDuck plus forks and experimental DuckDB tooling
-
-If you want, I can sketch the actual DuckDB SQL + GitHub API workflow for programmatically discovering repos (search query, pagination, and querying the JSON results). Just let me know which direction you meant.
