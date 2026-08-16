@@ -6,7 +6,7 @@ Here's an overview.
 
 **Where to look**
 
-1. **The `duckdb` GitHub topic** (github.com/topics/duckdb) — repos tagged with DuckDB, sortable by stars. You'll find everything from data warehouse builds with PostgreSQL/Snowflake/DuckDB to analytics workflows with cohort analysis and predictive modeling, and local-first AI analytics assistants combining DuckDB with dbt, dlt, and Ibis.
+1. **The `duckdb` GitHub topic** (https://github.com/topics/duckdb) — repos tagged with DuckDB, sortable by stars. You'll find everything from data warehouse builds with PostgreSQL/Snowflake/DuckDB to analytics workflows with cohort analysis and predictive modeling, and local-first AI analytics assistants combining DuckDB with dbt, dlt, and Ibis.
 
 2. **awesome-duckdb** (github.com/davidgasquez/awesome-duckdb) — the curated list of DuckDB libraries, tools and resources that the DuckDB team itself uses as its go-to reference.
 
